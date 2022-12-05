@@ -1,0 +1,17 @@
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\bin\Debug\net6.0\Za zdravie avtora.exe
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\bin\Debug\net6.0\Za zdravie avtora.deps.json
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\bin\Debug\net6.0\Za zdravie avtora.runtimeconfig.json
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\bin\Debug\net6.0\Za zdravie avtora.dll
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\bin\Debug\net6.0\Za zdravie avtora.pdb
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\obj\Debug\net6.0\Za zdravie avtora.csproj.AssemblyReference.cache
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\obj\Debug\net6.0\Za zdravie avtora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\obj\Debug\net6.0\Za zdravie avtora.AssemblyInfoInputs.cache
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\obj\Debug\net6.0\Za zdravie avtora.AssemblyInfo.cs
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\obj\Debug\net6.0\Za zdravie avtora.csproj.CoreCompileInputs.cache
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\obj\Debug\net6.0\Za zdravie avtora.dll
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\obj\Debug\net6.0\refint\Za zdravie avtora.dll
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\obj\Debug\net6.0\Za zdravie avtora.pdb
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\obj\Debug\net6.0\Za zdravie avtora.genruntimeconfig.cache
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\obj\Debug\net6.0\ref\Za zdravie avtora.dll
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\richb\source\repos\Za zdravie avtora\Za zdravie avtora\obj\Debug\net6.0\Za zdravie avtora.csproj.CopyComplete
